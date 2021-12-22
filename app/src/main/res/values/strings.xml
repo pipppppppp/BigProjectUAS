@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BigProject</string>
+    <string name="deskripsi_gmbr">gambar</string>
+    <string name="face_expres">face expression</string>
+    <string name="title_login">Welcome</string>
+    <string name="username">\tUsername</string>
+    <string name="password">\tPassword</string>
+    <string name="for_pass">Lupa Kata Sandi?</string>
+    <string name="for_pass2">Hubungi Admin</string>
+    <string name="nama_user">Nama Dosen</string>
+    <string name="nim">NIP DOSEN</string>
+    <string name="login_btn">Login</string>
+
+    <!--  string navmenu  -->
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <string name="menu_tentang_kami">About</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_log">Rekapitulasi</string>
+    <string name="menu_bantuan">Help</string>
+    <string name="menu_privasi_keamanan"><![CDATA[Privacy & Security]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile">Tempat edit profil disini</string>
+    <string name="about">Everything about us </string>
+    <string name="security">Privacy and Security</string>
+    <string name="rekap">Rekapitulasi Hasil Deteksi Ekspresi Wajah</string>
+    <string name="logout">Logout</string>
+    <string name="dashboard">Dashboard</string>
+</resources>
